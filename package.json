@@ -1,6 +1,6 @@
 {
   "name": "yh-vxe-table",
-  "version": "3.6.2",
+  "version": "3.6.3",
   "description": "一个基于 vue 的 PC 端表格组件，解决一些原作者未修复的问题,仅新增方法,不修改原有方法",
   "scripts": {
     "serve": "vue-cli-service serve",
