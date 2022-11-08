@@ -2776,7 +2776,7 @@ const Methods = {
   /**
    * 获取 树半选节点
    */
-  getTreeIndeterminates(){
+  getTreeIndeterminates () {
     return this.treeIndeterminates
   },
   /**
