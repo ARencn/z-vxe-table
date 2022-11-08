@@ -2774,6 +2774,12 @@ const Methods = {
     return this.findRowIndexOf(treeIndeterminates, row) > -1 && !this.isCheckedByCheckboxRow(row)
   },
   /**
+   * 获取 树半选节点
+   */
+  getTreeIndeterminates(){
+    return this.treeIndeterminates
+  },
+  /**
    * 多选，行选中事件
    * value 选中true 不选false 半选-1
    */
